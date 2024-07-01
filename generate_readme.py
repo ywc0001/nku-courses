@@ -1,5 +1,5 @@
 import os
-
+#运行此文件，更新概述目录
 def generate_readme():
     courses_dir = 'courses'
     readme_path = 'README.md'
