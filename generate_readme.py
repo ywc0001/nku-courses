@@ -5,8 +5,8 @@ def generate_readme():
     readme_path = 'README.md'
     
     with open(readme_path, 'w', encoding='utf-8') as readme_file:
-        readme_file.write('# 南开大学课程共享攻略\n\n')
-        readme_file.write('本项目旨在收集和分享南开大学各专业课程的学习资料和经验，帮助南开学子更好地学习和成长。\n\n')
+        readme_file.write('# 南开大学软件工程课程共享\n\n')
+        readme_file.write('本项目旨在收集和分享南开大学软件工程专业课程的学习资料和经验\n\n')
         readme_file.write('## 目录\n\n')
         
         for subject in sorted(os.listdir(courses_dir)):
