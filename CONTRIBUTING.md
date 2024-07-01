@@ -18,16 +18,20 @@
 ## 文件命名规范
 
 请按照以下格式命名文件：
+
 courses/<学科>/<课程名>/README.md
+
 courses/<学科>/<课程名>/资料文件
 
 
 例如：
 
-courses/cs/数据结构/README.md
-courses/cs/数据结构/课件.ppt
-courses/cs/数据结构/作业.zip
+courses/数据结构/README.md
+
+courses/数据结构/课件.ppt
+
+courses/数据结构/作业.zip
 
 ## 联系方式
 
-如有任何问题或建议，请通过 [issue](https://github.com/your_username/nankai-courses/issues) 与我们联系。
+如有任何问题或建议，请通过 [issue](https://github.com/ywc0001/nku-courses/issues) 与我们联系。

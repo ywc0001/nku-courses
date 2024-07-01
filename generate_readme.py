@@ -6,7 +6,7 @@ def generate_readme():
     
     with open(readme_path, 'w', encoding='utf-8') as readme_file:
         readme_file.write('# 南开大学软件工程课程共享\n\n')
-        readme_file.write('本项目旨在收集和分享南开大学软件工程专业课程的学习资料和经验\n\n')
+        readme_file.write('本项目旨在收集和分享南开大学软件工程专业课程的学习资料和经验。\n\n')
         readme_file.write('## 如何贡献\n')
         readme_file.write('欢迎大家贡献自己的学习资料和经验。请参考 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何贡献。\n\n')
 
