@@ -14,4 +14,5 @@
 关于考试，最后会给一个复习重点ppt，按重点复习即可。
 
 ## 其他资料
-[2024考题回忆： ](http://)https://blog.csdn.net/yyc2023/article/details/144851341
+
+[2024考题回忆： ](https://blog.csdn.net/yyc2023/article/details/144851341)
